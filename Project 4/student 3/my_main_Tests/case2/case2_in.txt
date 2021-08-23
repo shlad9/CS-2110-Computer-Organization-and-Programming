@@ -1,0 +1,10 @@
+ls
+import my_main_Tests/case2/moby.txt seans_book.doc 
+ls
+import my_main_Tests/case2/boat.txt art.ascii
+append seans_book.doc THE_END
+print seans_book.doc
+print art.ascii
+ls
+export art.ascii case2_export.txt
+exit

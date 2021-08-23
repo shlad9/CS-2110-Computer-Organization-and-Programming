@@ -1,0 +1,16 @@
+new manleys_poems.doc
+ls
+append manleys_poems.doc crimson_leaves_falling
+append manleys_poems.doc somebody_once_told_me
+new charlies_stories.doc
+append charlies_stories.doc once_upon_a_time?
+append charlies_stories.doc the_end...
+chmod manleys_poems.doc -wx
+print manleys_poems.doc
+ls
+rm manleys_poems.doc
+ls
+print charlies_stories.doc
+rm charlies_stories.doc
+ls 
+exit
